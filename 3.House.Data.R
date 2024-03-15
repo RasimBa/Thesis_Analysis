@@ -1,5 +1,5 @@
 
-readRDS("house_data_raw.rds") -> dataaa # i will need the row house data for some
+readRDS("house_data_raw.rds") -> dataaa # i will need the raw house data for some
 #calculations
 
 # Select rows with duplicated Unique_ID
